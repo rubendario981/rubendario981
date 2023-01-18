@@ -33,6 +33,22 @@
 </ul>
 
 
+### Keep in touch
+<div style"display: 'inline-flex'">
+    <img style="width: 22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin"/>
+    <a href="https://www.linkedin.com/in/rdguzmango/">Profile linkedin</a>
+</div>
+
+<div style"display: 'inline-flex'">
+    <img style="width: 22px" src="https://cdn-icons-png.flaticon.com/512/124/124034.png?w=360" alt="whatsapp"/>
+    <a href="https://wa.link/9h00js">Write me by Whatsapp</a>
+</div>
+
+<div style"display: 'inline-flex'">
+    <img style="width: 22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail"/>
+    <a href="mailto:rubendario981@gmail.com">Mail me by gmail</a>
+</div>
+
 
 <!--
 **rubendario981/rubendario981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
